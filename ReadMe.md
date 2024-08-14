@@ -27,6 +27,30 @@
 #### Business Travel Frequency vs. Number of Turnovers
 <p>Visualize how the frequency of business travel is related to the number of employee turnovers, providing insights into whether frequent travel impacts employee retention.</p>
 
+#### Job Involvement vs. Number of Turnovers
+<p>Analyze the relationship between employees' level of job involvement and the number of turnovers, identifying whether higher or lower involvement influences turnover rates.</p>
+
+#### Overtime vs. Number of Turnovers
+<p>Examine how the amount of overtime worked correlates with the number of employee turnovers, providing insights into whether excessive overtime contributes to higher turnover rates.</p>
+
+#### Monthly Rate vs. Number of Turnovers
+<p>Investigate the relationship between employees' monthly income and the number of turnovers, exploring whether compensation levels are associated with retention or turnover.</p>
+
+#### Distance from Home vs. Number of Turnovers
+<p>Visualize how the distance between employees' homes and the workplace relates to the number of turnovers, assessing whether long commutes are linked to higher turnover rates.</p>
+
+#### Performance Rating vs. Number of Turnovers
+<p>Explore the connection between employees' performance ratings and the number of turnovers, identifying whether lower or higher performance ratings are associated with higher turnover rates.</p>
+
+#### Training Sessions Last Year vs. Number of Turnovers
+<p>Analyze the impact of the number of training sessions attended in the last year on employee turnover, determining whether more frequent training is linked to lower turnover.</p>
+
+#### Years in Current Role vs. Number of Turnovers
+<p>Examine the relationship between the number of years employees have spent in their current role and the number of turnovers, assessing whether longer tenure in a role influences turnover rates.</p>
+
+#### Years Since Last Promotion vs. Number of Turnovers
+<p>Investigate how the number of years since an employee's last promotion relates to the number of turnovers, exploring whether a lack of recent promotions contributes to higher turnover rates.</p>
+
 
 
 
