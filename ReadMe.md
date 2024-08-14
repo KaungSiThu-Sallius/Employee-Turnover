@@ -51,6 +51,13 @@
 #### Years Since Last Promotion vs. Number of Turnovers
 <p>Investigate how the number of years since an employee's last promotion relates to the number of turnovers, exploring whether a lack of recent promotions contributes to higher turnover rates.</p>
 
+## Employee Details Dashboard | Requirements
+
+### Dashboard Purpose
+<p>The purpose of this dashboard is to deliver detailed information about employees, including their age, gender, education, tenure, performance, and whether they are currently employed or not.</p>
+
+
+
 
 
 
