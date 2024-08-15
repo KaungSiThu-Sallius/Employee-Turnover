@@ -16,17 +16,14 @@
 <p>Present a comparison of employee turnover by gender, displaying the number of turnovers for each gender.</p>
 <p>Display the number of employee turnovers based on marital status, providing insights into how marital status may influence turnover rates.</p>
 
+### Education and Age Group vs. Turnover
+<p>Display the number of turnovers by education and age group, providing insights into which education level and age group have the highest turnover rates.</p>
+
 ### Department and Job Role vs. Turnover
 <p>Display the number of turnovers by department and job role, providing insights into which departments and job roles have the highest turnover rates.</p>
 
-### Environment Satisfaction, Relationship with Work Satisfaction, Job Satisfaction, and Work-Life Balance vs. Turnover
-<p>Visualize the relationship between employee turnover and satisfaction factors such as environment satisfaction, relationship with work satisfaction, job satisfaction, and work-life balance. This will help identify how these factors influence turnover rates and where improvements may be needed.</p>
-
 ### Business Travel Frequency vs. Number of Turnovers
 <p>Visualize how the frequency of business travel is related to the number of employee turnovers, providing insights into whether frequent travel impacts employee retention.</p>
-
-### Job Involvement vs. Number of Turnovers
-<p>Analyze the relationship between employees' level of job involvement and the number of turnovers, identifying whether higher or lower involvement influences turnover rates.</p>
 
 ### Overtime vs. Number of Turnovers
 <p>Examine how the amount of overtime worked correlates with the number of employee turnovers, providing insights into whether excessive overtime contributes to higher turnover rates.</p>
