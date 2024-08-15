@@ -28,9 +28,6 @@
 ### Overtime vs. Number of Turnovers
 <p>Examine how the amount of overtime worked correlates with the number of employee turnovers, providing insights into whether excessive overtime contributes to higher turnover rates.</p>
 
-### Monthly Rate vs. Number of Turnovers
-<p>Investigate the relationship between employees' monthly income and the number of turnovers, exploring whether compensation levels are associated with retention or turnover.</p>
-
 ### Distance from Home vs. Number of Turnovers
 <p>Visualize how the distance between employees' homes and the workplace relates to the number of turnovers, assessing whether long commutes are linked to higher turnover rates.</p>
 
