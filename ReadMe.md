@@ -3,6 +3,9 @@
 ## Introduction 
 <p>This user story defines the requirements for creating two dashboards in Tableau, designed to visualize and analyze employee turnover and related employee details.</p>
 
+## Tableau Public Link
+<a href=https://public.tableau.com/app/profile/kaung.si.thu4639/viz/EmployeeTurnover_17236326965130/SummaryDashboard"">Link to Tableau Dashboard</a>
+
 ## Employee Turnover Summary Dashboard | Requirements
 
 ### Dashboard purpose
