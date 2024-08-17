@@ -48,6 +48,12 @@
 ### Dashboard Purpose
 <p>The purpose of this dashboard is to deliver detailed information about employees, including their age, gender, education, tenure, performance, and whether they are currently employed or not.</p>
 
+## Employee Turnover Analysis Dashboard 
+![Summary Dashboard](https://github.com/user-attachments/assets/af18dff3-ee19-4cb6-bbb0-fb5fc596f61d)
+
+## Turnover Employee Details Dashboard
+![Employee Dashboard](https://github.com/user-attachments/assets/29f3c820-3b9c-45f4-bea2-de4a8f3554f2)
+
 
 
 
