@@ -15,9 +15,11 @@
 <p>Display an overview including the total number of employees who have left (turnover), the turnover rate, and the average years of service for employees.</p>
 
 ### Age Group vs. Number of Turnovers and Gender vs. Number of Turnovers and Marital Status vs Number of Turnovers
-<p>Visualize the distribution of employee turnover across different age groups, showing the number of turnovers for each age bracket.</p>
-<p>Present a comparison of employee turnover by gender, displaying the number of turnovers for each gender.</p>
-<p>Display the number of employee turnovers based on marital status, providing insights into how marital status may influence turnover rates.</p>
+<ol>
+    <li>Visualize the distribution of employee turnover across different age groups, showing the number of turnovers for each age bracket.</li>
+    <li>Present a comparison of employee turnover by gender, displaying the number of turnovers for each gender.</li>
+    <li>Display the number of employee turnovers based on marital status, providing insights into how marital status may influence turnover rates.</li>
+</ol>
 
 ### Education and Age Group vs. Turnover
 <p>Display the number of turnovers by education and age group, providing insights into which education level and age group have the highest turnover rates.</p>
@@ -33,18 +35,6 @@
 
 ### Distance from Home vs. Number of Turnovers
 <p>Visualize how the distance between employees' homes and the workplace relates to the number of turnovers, assessing whether long commutes are linked to higher turnover rates.</p>
-
-### Performance Rating vs. Number of Turnovers
-<p>Explore the connection between employees' performance ratings and the number of turnovers, identifying whether lower or higher performance ratings are associated with higher turnover rates.</p>
-
-### Training Sessions Last Year vs. Number of Turnovers
-<p>Analyze the impact of the number of training sessions attended in the last year on employee turnover, determining whether more frequent training is linked to lower turnover.</p>
-
-### Years in Current Role vs. Number of Turnovers
-<p>Examine the relationship between the number of years employees have spent in their current role and the number of turnovers, assessing whether longer tenure in a role influences turnover rates.</p>
-
-### Years Since Last Promotion vs. Number of Turnovers
-<p>Investigate how the number of years since an employee's last promotion relates to the number of turnovers, exploring whether a lack of recent promotions contributes to higher turnover rates.</p>
 
 ## Employee Details Dashboard | Requirements
 
