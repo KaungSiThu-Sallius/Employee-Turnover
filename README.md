@@ -47,6 +47,12 @@
 ## Turnover Employee Details Dashboard
 ![Employee Dashboard](https://github.com/user-attachments/assets/29f3c820-3b9c-45f4-bea2-de4a8f3554f2)
 
+## Employee Turnover Analysis Summary
+<p>The "Employee Turnover Analysis Dashboard" provides an overview of turnover patterns within an organization. The overall turnover rate is 16%, with 237 employees leaving the company, and the average tenure of departing employees is 11 years. The turnover is particularly high among employees with a Bachelor's degree, especially in the 26-35 age group. Gender analysis shows a higher turnover among single employees and those who frequently travel for work, with males having slightly higher turnover rates in most cases. In terms of department and job roles, Research & Development sees the largest turnover, notably among Human Resources and Sales roles. Employees who work overtime are more likely to leave, and there is a positive correlation between distance from home and turnover rates.</p>
+
+## Recommendations
+<p>To reduce employee turnover, the company should focus on improving work-life balance by reducing overtime or offering more flexible work options, especially for those living far from the workplace. Implementing engagement programs targeting single employees and frequent travelers could help improve retention in those groups. Tailored career development plans for employees with Bachelor's degrees, particularly in the 26-35 age range, may also help mitigate turnover. Additionally, the organization should review HR and Sales departments to identify factors contributing to higher turnover and address those issues to improve overall employee satisfaction.</p>
+
 
 
 
